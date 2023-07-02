@@ -4,26 +4,13 @@ title: About
 permalink: /
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi y'all! I'am Alex Yang, and this is my new personal website. I'll get the construction done this summer. For quick info of me, I am an in-coming PhD student in Georgia Tech in CSE-Bio program, and will potentially work with Hannah Choi doing some computational neuroscience stuff. Before that, I somehow got an M.S. degree in Applied Mathematics in Columbia, U.S., and a B.S. degree in Chemistry (what?) in Wuhan University, China. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+My current research interest lies in RNNs (Recurrent Neural Networks), no, not the RNNs in computer science like LSTM, but a simpler one with amazing ability to do cognitive tasks. So it's still neuroscience with more abstraction, and kinda like open the black box task. Before that I mainly do neuroscience models from *the first principle*, e.g. visual system of fruit flies, some mean-filed kinetic PDEs of balanced IF network. Then I feel spiking network is somehow dumb and cursed, so I feel I'll be doomed if I stick on that, that's the reason I switch to RNNs. 
 
-## Features
+## News
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- I'm going to Gatech!!! actually get a mixed feeling on this... :|
+- Back from Maxico, I love the vibe of Mexico City~
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+For more fun, make sure to check my blogs! Enjoy!

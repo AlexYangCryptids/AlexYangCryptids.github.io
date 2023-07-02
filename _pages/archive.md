@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /archive/
-title: Posts Archive
+title: Science Blog
 ---
 
 
 <div id="archives">
   <section id="archive">
      <h3>Most Recent Posts</h3>
-      {%for post in site.posts.1 %}
+      {%for post in site.categories.sci %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
