@@ -7,7 +7,7 @@ title: Random Buzz
 <div id="archives">
   <section id="archive">
      <h3>Most Recent Posts</h3>
-      {%for post in site.categories[Miscellaneous] %}
+      {%for post in site.categories[#Miscellaneous] %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
@@ -30,4 +30,3 @@ title: Random Buzz
     <h3>Oldest Posts</h3>
   </section>
 </div>
-
