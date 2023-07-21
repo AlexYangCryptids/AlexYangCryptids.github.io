@@ -4,13 +4,21 @@ title: About
 permalink: /
 ---
 
-Hi y'all! I'am Alex Yang, and this is my new personal website. I'll get the construction done this summer. For quick info of me, I am an in-coming PhD student in Georgia Tech in CSE-Bio program, and will potentially work with Hannah Choi doing some computational neuroscience stuff. Before that, I somehow got an M.S. degree in Applied Mathematics in Columbia, U.S., and a B.S. degree in Chemistry (what?) in Wuhan University, China. 
+Hi y'all! I'm Qiuyang (Yang) Wang, or Alex Yang on some occasions. I'm an in-coming PhD student in the CSE-Bio program of Georgia Tech, and will potentially work with [Hannah Choi](https://hannahchoi.math.gatech.edu) doing computational neuroscience. Before that, I somehow got an M.S. degree in Applied Mathematics at Columbia University, U.S., and a B.S. degree in Chemistry (what?) at Wuhan University, China. 
 
-My current research interest lies in RNNs (Recurrent Neural Networks), no, not the RNNs in computer science like LSTM, but a simpler one with amazing ability to do cognitive tasks. So it's still neuroscience with more abstraction, and kinda like open the black box task. Before that I mainly do neuroscience models from *the first principle*, e.g. visual system of fruit flies, some mean-filed kinetic PDEs of balanced IF network. Then I feel spiking network is somehow dumb and cursed, so I feel I'll be doomed if I stick on that, that's the reason I switch to RNNs. 
+My current research interest lies in Recurrent Neural Networks (**RNNs**), no, not the RNNs in computer science like LSTM, but a simpler one with amazing ability to do cognitive tasks. It's still neuroscience but with more abstraction, and  kinda the *open the black box* task. I'm also fascinated by the biophysical neurons and endeavoring to comprehend the extent to which their complexity can be reduced (real neurons are pretty, eh, messy). 
+
+Before I join GaTech, I mainly did neural models from *the first principle*, e.g. visual system of fruit flies, some mean-field kinetic PDEs of balanced IF network, and auto-encoder with synaptic plasitcity (the last one is ML though). They still sound cool to me but I guess now I love RNNs more.
+
+Besides research, I love reading, water sports, gaming and writing. I plan to develop my own 2d game, so now I am basically learning Unity. I'm also trying to learn Spanish, but got lazy anyway...
+
+And finally, I **love** cryptids, urban myths and all the wierd stuff (no I DO NOT believe any of these, but they are insanely fun aren't they?). By the way, my favorite cryptid is the Mokele-mbembe (still living dinosaurs in the Congo jungle!). 
+
+
 
 ## News
 
-- I'm going to Gatech!!! actually get a mixed feeling on this... :|
+- I'm going to Gatech!!! actually get a mixed feeling on this...
 - Back from Maxico, I love the vibe of Mexico City~
 
 For more fun, make sure to check my blogs! Enjoy!
