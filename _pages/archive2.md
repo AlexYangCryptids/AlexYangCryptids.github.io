@@ -7,7 +7,7 @@ title: Random Buzz
 <div id="archives">
   <section id="archive">
      <h3>Most Recent Posts</h3>
-      {%for post in site.categories.HTML %}
+      {%for post in site.categories.buzz %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
