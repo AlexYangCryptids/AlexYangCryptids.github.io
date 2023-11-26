@@ -134,9 +134,9 @@ Of course Tyrion is NOT a time-traveling son of Dany & Drogo, but this shit theo
 
 
 
+## Quick Summary
 
-
-So that's it. I mean theories are for fun, just don't take it too seriously. Martin himself cannot complete the sixth book and leaves toooo many plot holes and conspiracy explanation. It's like coffee, two cups of a day is great, but if you drink too much, it's simply not good. 
+So that's it. There are many other solid theories not introduced here since they are too obvious (like Robert Strong is zombie Mountain, or Baelon Greyjoy was assisanated by Euron) Theories are for fun, just don't take it too seriously. Martin himself cannot complete the sixth book and leaves toooo many plot holes and conspiracy explanation. It's like coffee, two cups of a day is great, but if you drink too much, it's simply not good. 
 
 And this guy Martin sucks, like 13 years for a 2/3 complete, what the hell are you doing? Many people hope he will live long enough to finish the series, but to this point I would prefer him die early. He is not working on the TWOW as long as he still lives. But he can leave some raw ideas and draft plotline after he pass away and let someone else finish it. After all, it's still **GaRdEnInG**, right Martin?
 
