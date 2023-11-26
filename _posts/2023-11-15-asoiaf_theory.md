@@ -20,6 +20,8 @@ So it basically says Jon you-know-nothing Snow is the son of Prince Regaher and 
 
 ## Night Lamp
 
+<img src="https://alexyangcryptids.github.io/images/asoiaf/night_lamp.jpeg" alt="drogo" style="zoom:70%;" />
+
 So in the Book 4 & 5, Stannis went to the Wall, then marching south to face Boltons. While the Boltons were turtled in Winterfell, its alley, Freys tries to attack Stannis. And Stannis' army was not in a good shape: lack of supplies, long march, short handed. To make things even worse, there is a terrible snow strom, making soilder barely see anything. Now the situation is both Stannis and Freys are trapped in the strom, and Stannis's army currently camped is an abandoned villiage surrounded by an frozen lake. What should Stannis do?
 
 The Night Lamp theory says Stannis will win this battle by luring Freys to the frozen lake then let them drown by breaking the ice. Due to the low visibility, there is burning beacon on the center of the camp of Stannis showing the right direction. However, there is a also giant dead tree on a island in the lake. By turning off the true beacon and burning the tree, the tree thus became a false beacon, luring Freys to the wrong direction and causing them stepping on the fragile ice. Stannis will then break the ice and have a easy win. 
