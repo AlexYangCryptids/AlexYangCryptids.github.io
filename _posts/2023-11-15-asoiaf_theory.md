@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theory I believe in ASOIAF
+title: Theories I believe in ASOIAF
 categories: [buzz, asoiaf, reading]
 ---
 
@@ -20,7 +20,7 @@ So it basically says Jon you-know-nothing Snow is the son of Prince Regaher and 
 
 ## Night Lamp
 
-<img src="https://alexyangcryptids.github.io/images/asoiaf/night_lamp.jpeg" alt="drogo" style="zoom:70%;" />
+<img src="https://alexyangcryptids.github.io/images/asoiaf/night_lamp.jpeg" alt="night lamp" style="zoom:20%;" />
 
 So in the Book 4 & 5, Stannis went to the Wall, then marching south to face Boltons. While the Boltons were turtled in Winterfell, its alley, Freys tries to attack Stannis. And Stannis' army was not in a good shape: lack of supplies, long march, short handed. To make things even worse, there is a terrible snow strom, making soilder barely see anything. Now the situation is both Stannis and Freys are trapped in the strom, and Stannis's army currently camped is an abandoned villiage surrounded by an frozen lake. What should Stannis do?
 
@@ -31,6 +31,8 @@ It's like a Night Lamp, attracting moths to a death trap. Stannis is a talented 
 For more details, [here](https://cantuse.wordpress.com/2014/08/28/the-night-lamp-revisited-the-wrath-of-the-old-and-the-new/#fireuptheband) is a blog doing fabulous analysis. Anyway, it's a really solid theory and well-believed by fans. 
 
 ## Varys is a Targaryen
+
+<img src="https://alexyangcryptids.github.io/images/asoiaf/varys_dragon.png" alt="varys" style="zoom:40%;" />
 
 People always wonder what varys is up to. In the TV series GoT, Varys is like a communism saint, for the people and for the relam, yet it may not be the case in the books. We know that Varys are developing some secret plots with Illyrio to throw out the Barratheon Dynasty. They support Daenerys. Illyrio (and Varys) also supports Aegon Targaryen, claiming he is the still living son of Regaher, though people are suspecting Aegon is a Blackfrye instead. Also, during Robert's rebellion, when Tywin's army is at the gate of King's landing, Varys tried to pursuade Aerys not to open the gate, though the mad king opened it anyway and letting the Targaryen family butchered by Tywin. 
 
@@ -50,6 +52,8 @@ If we combine all the evidence. A bald guy like egg, with noble blood and purple
 
 ## Blackfyre Rebellion is Important
 
+<img src="https://alexyangcryptids.github.io/images/asoiaf/blackfyre.jpeg" alt="night lamp" style="zoom:40%;" />
+
 In book 5, the young Aegon Targaryen, supported by Illyion and Golden Company, claiming that he is the son of Regaher, true heir of the seven kingdom, landed on the storm lands. However, fans always suspect he is the son the Illyion and he is a Blackfrye, but WTF is Blackfrye?
 
 So Blackfrye is a sword waved by Aegon the Conquere, then passed to his descendent. However, Aegon IV legitimatized all his bastards and gave this sword to his elderest baster, Daemon. When Aegon IV died, Daemon Blackfyre threw a rebellion agaisnt the king Daeron, though he failed anyway. But Daemon's family is pretty stubborn. They just rebelled, failed, rebelled, failed over and over again, resulting in five Blackfyre rebellion sin total. And some of the consequences still have impact till today. 
@@ -63,6 +67,8 @@ So Blackfrye is a sword waved by Aegon the Conquere, then passed to his descende
 And now there are some evidence supporting today's Aegon is a Blackfrye in female line. So yeah, I guess Blackfyre seems to be important....
 
 ## Egg's Summer Hall Sacrifice Succeeded in Some Way
+
+<img src="https://alexyangcryptids.github.io/images/asoiaf/summerhall.jpeg" alt="night lamp" style="zoom:20%;" />
 
 Cool but what is Summer Hall Experiment? Who is Egg?
 
@@ -94,6 +100,8 @@ Oh man... I mean it's obvious. Look at Samwell Tarlly, look at Martin. Also Gill
 
 ## Jon Snow Will Kill Dany
 
+<img src="https://alexyangcryptids.github.io/images/asoiaf/AzorAhai.webp" alt="night lamp" style="zoom:40%;" />
+
 As being said in the Summer Hall theory, both Jon Snow and Dany are true dragon, or both are Azor Ahai. According the legend of Azor Ahai, he drove his sword into his wife, Nissa Nissa's beast, and forged the lightbringer using her blood and soul. So yeah, maybe to become an Azor Ahai, you need some kind of sacrifice? And who is that sacrafice?
 
 In season 8 of GoT, Dany became mad and burned down whole King's landing. Jon had no choice but to kill Dany. Although DnD messed up the whole season, this plot is the supposed ending as what Martin told them. But why she did those horrible things? Are there hints in the books suggesting Dany's fate?
@@ -108,7 +116,9 @@ Well yes:
 
 ## Drogo became a Dragon
 
-It is said the Dragon Drogon is the reincarnation of Khal Drogo. I firmly believe this. The only reason is Khal Drogo is my favorite character in the ENTIRE series. He didn't die. He became a dragon. 
+<img src="https://alexyangcryptids.github.io/images/asoiaf/drogo.jpeg" alt="night lamp" style="zoom:50%;" />
+
+It is said the Dragon Drogo is the reincarnation of Khal Drogo. I firmly believe this. The only reason is that Khal Drogo is my favorite character in the ENTIRE series. He didn't die. He became a dragon. 
 
 
 
