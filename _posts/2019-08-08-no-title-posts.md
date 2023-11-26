@@ -1,6 +1,6 @@
 ---
 layout: post
 title: ""
-categories: buzz
+categories: Misc
 ---
 Sometimes, your post just stands for itself and doesn't need a title. And that's fine, too!
