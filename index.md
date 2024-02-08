@@ -14,7 +14,7 @@ Besides research, I love coffee, puzzle solving, reading and water sports. I'm a
 
 ## News
 
-- I'm going to Gatech!!! actually get a mixed feeling on this...
-- Back from Maxico, I love the vibe of Mexico City~
+- I'm going to GaTech!!! actually get a mixed feeling on this...
+- Graduate from Columbia! Also flied back from Maxico, I love the vibe of Mexico City~
 
 For more fun, make sure to check my blogs! Enjoy!
