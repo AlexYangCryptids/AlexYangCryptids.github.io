@@ -8,7 +8,7 @@ Hi y'all! I'm Alex Yang Wang. I'm currently a PhD student in CSE-Bio program at 
 
 My current research is mainly around **neural representation and Recurrent Neural Networks (RNNs)**. I deal with both conceptual models and data-driven models. They are somewhat abstract and machine-learning-like, but now I think this could be the right path. Besides that, I'm also fascinated by the complex systems in social science. What are the first principles and emergent machenisms in this huge network?
 
-Besides research, I love coffee, puzzle solving, game designing and water sports. Fun fact: I love rats and cryptids!
+Besides research, I love coffee, puzzle solving, water sports and game designing. Fun fact: I love rats and cryptids!
 
 If you are still interested, make sure to check my blogs. Enjoy! :) 
 
